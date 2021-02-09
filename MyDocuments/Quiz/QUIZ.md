@@ -11,14 +11,14 @@ You can mark your choice by putting an `x` in the correct box
 
 **What is the correct way to move to a directory called "Projects"?**
 
-- [ ] cd Projects
+- [x] cd Projects
 - [ ] mv Projects
 - [ ] cd ..Projects
 - [ ] mv ..
 
 **What is the correct way to move up a directory?**
 
-- [ ] cd ..
+- [x] cd ..
 - [ ] cd ~
 - [ ] mv ..
 - [ ] cd ./
@@ -26,7 +26,7 @@ You can mark your choice by putting an `x` in the correct box
 **How do you stop a long running task in the terminal?**
 
 - [ ] The tab key
-- [ ] ctrl+c
+- [x] ctrl+c
 - [ ] ctrl+shift or cmd+shift
 - [ ] The enter key
 - [ ] The escape key
@@ -34,7 +34,7 @@ You can mark your choice by putting an `x` in the correct box
 
 **How do you auto-complete a command that you are typing?**
 
-- [ ] The tab key
+- [x] The tab key
 - [ ] ctrl+c
 - [ ] ctrl+shift or cmd+shift
 - [ ] The enter key
@@ -43,7 +43,7 @@ You can mark your choice by putting an `x` in the correct box
 
 **What's the correct command to view all the files in your current directory?**
 
-- [ ] ls
+- [x] ls
 - [ ] pwd
 - [ ] mv
 - [ ] cd
@@ -53,7 +53,7 @@ You can mark your choice by putting an `x` in the correct box
 **What's the correct command to see the current directory you are in?**
 
 - [ ] ls
-- [ ] pwd
+- [x] pwd
 - [ ] mv
 - [ ] cd
 - [ ] clear
@@ -65,7 +65,7 @@ You can mark your choice by putting an `x` in the correct box
 - [ ] pwd
 - [ ] mv
 - [ ] cd
-- [ ] clear
+- [x] clear
 - [ ] mkdir
 
 **What is the correct command to make a folder in the terminal?**
@@ -75,20 +75,20 @@ You can mark your choice by putting an `x` in the correct box
 - [ ] mv
 - [ ] cd
 - [ ] clear
-- [ ] mkdir
+- [x] mkdir
 
 **What is the correct command to move a file in the terminal?**
 
 - [ ] ls
 - [ ] pwd
-- [ ] mv
+- [x ] mv
 - [ ] cd
 - [ ] clear
 - [ ] mkdir
 
 **What is the correct name for the part after the - in this command "ls -all"?**
 
-- [ ] parameter
+- [x] parameter
 - [ ] extra
 - [ ] function
 - [ ] dash
